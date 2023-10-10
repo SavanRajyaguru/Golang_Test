@@ -14,4 +14,7 @@ func main() {
 
 	newValue := *ptr + 2
 	fmt.Println("NEW VALUE:", newValue)
+	*ptr += *ptr + 2
+	fmt.Println("NEW VALUE:", num)
+	fmt.Println("New Value:", *ptr)
 }

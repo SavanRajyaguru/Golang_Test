@@ -7,3 +7,21 @@ use ./05Pointers
 use ./06Arrays&Slices
 
 use ./07Maps&Range
+
+use ./08Struct
+
+use ./09Methods
+
+use ./10Defer
+
+use ./11Files
+
+use ./12WebRequest
+
+use ./13Modules
+
+use ./test
+
+use ./14RaceCondition
+
+use ./15Channels&Deadlock
